@@ -1,0 +1,3 @@
+Yet another flappy bird game clone...
+
+Playing around with canvas animations, see the [online demo](http://douglaswcamargo.github.io/react-ts-flappy-bird)
