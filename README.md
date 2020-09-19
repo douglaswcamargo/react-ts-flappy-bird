@@ -2,7 +2,7 @@ Yet another flappy bird game clone...
 
 Playing around with canvas animations, see the **[online demo](http://douglaswcamargo.github.io/react-ts-flappy-bird)**
 
-![app preview]('flappy-preview.png')
+![app preview](flappy-preview.png)
 
 Made with `react` + typescript.
 
