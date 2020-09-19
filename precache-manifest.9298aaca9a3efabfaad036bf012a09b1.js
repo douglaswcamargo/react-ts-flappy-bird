@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d1f8eeaa1412d0ac37d6ab1550aaf08",
+    "revision": "5f3467d50d7f0cb1b3898b6eafc96f00",
     "url": "/react-ts-flappy-bird/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-ts-flappy-bird/static/js/2.82bf5a9f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fcbb4cc55a1f17896618",
-    "url": "/react-ts-flappy-bird/static/js/main.f5033fd6.chunk.js"
+    "revision": "b673345946728ea60b2a",
+    "url": "/react-ts-flappy-bird/static/js/main.23d568f1.chunk.js"
   },
   {
     "revision": "2acfec413e6db736e335",
