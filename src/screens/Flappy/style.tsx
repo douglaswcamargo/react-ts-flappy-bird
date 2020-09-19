@@ -3,6 +3,8 @@ import styled from 'styled-components'
 export const Screen = styled.div`
   padding: 1rem;
   cursor: pointer;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
     & canvas {
         box-shadow: 0 1px 1px rgba(0,0,0,0.08), 
                     0 2px 2px rgba(0,0,0,0.12), 
