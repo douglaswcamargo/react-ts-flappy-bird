@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/react-ts-flappy-bird/static/js/main.ce070f94.chunk.js",
+    "main.js.map": "/react-ts-flappy-bird/static/js/main.ce070f94.chunk.js.map",
+    "runtime-main.js": "/react-ts-flappy-bird/static/js/runtime-main.d595ace3.js",
+    "runtime-main.js.map": "/react-ts-flappy-bird/static/js/runtime-main.d595ace3.js.map",
+    "static/js/2.82bf5a9f.chunk.js": "/react-ts-flappy-bird/static/js/2.82bf5a9f.chunk.js",
+    "static/js/2.82bf5a9f.chunk.js.map": "/react-ts-flappy-bird/static/js/2.82bf5a9f.chunk.js.map",
+    "index.html": "/react-ts-flappy-bird/index.html",
+    "precache-manifest.51e8005078b1761b70261a5d5f9f6ef0.js": "/react-ts-flappy-bird/precache-manifest.51e8005078b1761b70261a5d5f9f6ef0.js",
+    "service-worker.js": "/react-ts-flappy-bird/service-worker.js",
+    "static/js/2.82bf5a9f.chunk.js.LICENSE.txt": "/react-ts-flappy-bird/static/js/2.82bf5a9f.chunk.js.LICENSE.txt",
+    "static/media/bg.png": "/react-ts-flappy-bird/static/media/bg.f97dc14b.png",
+    "static/media/bird.png": "/react-ts-flappy-bird/static/media/bird.cab12c37.png",
+    "static/media/fg.png": "/react-ts-flappy-bird/static/media/fg.6ecbd537.png",
+    "static/media/pipeNorth.png": "/react-ts-flappy-bird/static/media/pipeNorth.07cd2335.png",
+    "static/media/pipeSouth.png": "/react-ts-flappy-bird/static/media/pipeSouth.f7914292.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d595ace3.js",
+    "static/js/2.82bf5a9f.chunk.js",
+    "static/js/main.ce070f94.chunk.js"
+  ]
+}
