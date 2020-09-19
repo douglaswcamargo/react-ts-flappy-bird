@@ -15,7 +15,7 @@ const config = {
   options: {
     delayFrameCount: 5,
     birdX: 50,
-    gap: 100,
+    gap: 330,
     upMovement: 40,
     gravity: 1.5
   }
