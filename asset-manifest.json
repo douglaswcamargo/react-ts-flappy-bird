@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-ts-flappy-bird/static/js/main.ce070f94.chunk.js",
-    "main.js.map": "/react-ts-flappy-bird/static/js/main.ce070f94.chunk.js.map",
+    "main.js": "/react-ts-flappy-bird/static/js/main.67767c68.chunk.js",
+    "main.js.map": "/react-ts-flappy-bird/static/js/main.67767c68.chunk.js.map",
     "runtime-main.js": "/react-ts-flappy-bird/static/js/runtime-main.d595ace3.js",
     "runtime-main.js.map": "/react-ts-flappy-bird/static/js/runtime-main.d595ace3.js.map",
     "static/js/2.82bf5a9f.chunk.js": "/react-ts-flappy-bird/static/js/2.82bf5a9f.chunk.js",
     "static/js/2.82bf5a9f.chunk.js.map": "/react-ts-flappy-bird/static/js/2.82bf5a9f.chunk.js.map",
     "index.html": "/react-ts-flappy-bird/index.html",
-    "precache-manifest.51e8005078b1761b70261a5d5f9f6ef0.js": "/react-ts-flappy-bird/precache-manifest.51e8005078b1761b70261a5d5f9f6ef0.js",
+    "precache-manifest.282cedf6f9e247dea3e8efa6e53b4478.js": "/react-ts-flappy-bird/precache-manifest.282cedf6f9e247dea3e8efa6e53b4478.js",
     "service-worker.js": "/react-ts-flappy-bird/service-worker.js",
     "static/js/2.82bf5a9f.chunk.js.LICENSE.txt": "/react-ts-flappy-bird/static/js/2.82bf5a9f.chunk.js.LICENSE.txt",
     "static/media/bg.png": "/react-ts-flappy-bird/static/media/bg.f97dc14b.png",
@@ -19,6 +19,6 @@
   "entrypoints": [
     "static/js/runtime-main.d595ace3.js",
     "static/js/2.82bf5a9f.chunk.js",
-    "static/js/main.ce070f94.chunk.js"
+    "static/js/main.67767c68.chunk.js"
   ]
 }
